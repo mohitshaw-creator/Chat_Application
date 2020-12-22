@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E-Chat</string>
+    <string name="mute_notification">Mute Notification</string>
+</resources>
